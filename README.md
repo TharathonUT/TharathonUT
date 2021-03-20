@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TharathonUT
+- 👀 I’m interested in AI, NLP, Web programming and Microcontroller
+- 🌱 I’m currently learning NLP and Knowledge-graph
+- 📫 You can contact me on tharathon.ut@gmail.com
